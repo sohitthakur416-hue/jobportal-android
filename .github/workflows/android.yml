@@ -1,1 +1,5 @@
+name: Build JobPortal Android App
 
+on:
+  workflow_dispatch:
+  push:
